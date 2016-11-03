@@ -85,7 +85,7 @@ A bug report should contain the following
 ## Mailing list
 - dl_haste@nhnent.com
 
-## Contributor
+## Initiator
 - Ethan Kwon (Founder)
 - Tae gyeong, Kim
 

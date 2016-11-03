@@ -84,7 +84,7 @@
 ## Mailing list
 - dl_haste@nhnent.com
 
-## Contributor
+## Initiator
 - 권오범 (Founder)
 - 김태경
 
