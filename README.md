@@ -1,11 +1,13 @@
-[![Build Status](https://travis-ci.org/toast-haste/toast-haste.framework.svg?branch=feature%2Fapply-travis)](https://travis-ci.org/toast-haste/toast-haste.framework)
-
 ![Logo](https://cloud.githubusercontent.com/assets/4951898/19913934/252fd2d8-a0ea-11e6-92e2-c4225e97a020.png)
 
 # TOAST Haste framework
-`TOAST Haste framework` is the asynchronous java game server framework for easy development. Event though it currently support UDP only, we will support TCP as soon as possible. We are not experts of a open source project. if you would like to help us, please do not hesitate to contact us.
-
 `Haste is a spell that boosts the player movement speed and attack speed.`
+
+TOAST Haste framework is the asynchronous java game server framework for easy development. Event though it currently support UDP only, we will support TCP as soon as possible. We are not experts of a open source project. if you would like to help us, please do not hesitate to contact us. The following is our gitter room url
+
+[Gitter](https://gitter.im/toast-haste/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
+[![Build Status](https://travis-ci.org/toast-haste/toast-haste.framework.svg?branch=feature%2Fapply-travis)](https://travis-ci.org/toast-haste/toast-haste.framework)
 
 ![Englsh](https://img.shields.io/badge/Language-English-lightgrey.svg) 
 [![Korean](https://img.shields.io/badge/Language-Korean-blue.svg)](README_KR.md)
