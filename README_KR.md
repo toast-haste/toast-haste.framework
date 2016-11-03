@@ -5,6 +5,9 @@
 
 `Haste는 속도를 빠르게 만드는 효과를 가진 가속 마법을 의미한다.`
 
+  [![Join the chat at https://gitter.im/toast-haste/toast-haste.framework](https://badges.gitter.im/toast-haste/toast-haste.framework.svg)](https://gitter.im/toast-haste/toast-haste.framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
+[![Build Status](https://travis-ci.org/toast-haste/toast-haste.framework.svg?branch=feature%2Fapply-travis)](https://travis-ci.org/toast-haste/toast-haste.framework)  
+
 [![Englsh](https://img.shields.io/badge/Language-English-red.svg)](README.md)
 ![Korean](https://img.shields.io/badge/Language-Korean-lightgrey.svg)
 
