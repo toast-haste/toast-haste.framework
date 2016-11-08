@@ -11,7 +11,7 @@
 | Open Source | ~ 2016/05 |
 
 ## Documetation
-- Github의 [Wiki 문서](https://github.com/nhnent/haste.framework/wiki)를 참조하면 된다.
+- Please, refer to [Github's Wiki](https://github.com/nhnent/haste.framework/wiki)
 
 ## Mailing list
 - dl_haste@nhnent.com
